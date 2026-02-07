@@ -57,9 +57,9 @@
 
 ---
 
-<img align="left" alt="Estadísticas de Github de Efrain Vitorino" src="https://github-readme-stats.vercel.app/api?username=lovito99&show_icons=true&hide_border=true" />
+[![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=lovito99&theme=dark&show_icons=true)](https://github.com/lovito99)
 
-<img align="left" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovito99&layout=compact&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovito99&theme=dark&layout=compact)](https://github.com/lovito99)
 
 [website]: https://www.whasapo.com
 [facebook]: https://www.facebook.com/vitorinoef
