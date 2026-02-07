@@ -5,7 +5,8 @@
 - 🔭 Actualmente trabajando en agencias de viajes en Cusco en proyectos de desarrollo web y aplicaciones móviles con integraciones de pasarelas de pago Webmaster
 - 🎓 Estudiando en la UNSAAC
 - 🌱 Soy Estudiante de Ing. Informatica y de Sistemas,.
-- 😍 Amo el Open Source, este es mi primer proyecto de código abierto >> [Whasapo][whasapo]!
+- � Mi primer proyecto CRM: [Whasapo][whasapo] - Desarrollado con JavaScript y TypeScript
+- 😍 Amo el Open Source, este es mi primer proyecto de código abierto >> [Whasapo Dev][whasapodev]!
 
 ### Conecta conmigo:
 
@@ -63,4 +64,5 @@
 [instagram]: https://www.instagram.com/vitorinoef
 [linkedin]: https://www.linkedin.com/in/vitorinoef
 [whasapo]: https://github.com/whasapo
+[whasapodev]: https://github.com/lovito99/whasapodev
 
