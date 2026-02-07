@@ -35,9 +35,20 @@
 
 ---
 
+### Certificaciones:
+
+[<img align="left" alt="C++ Essentials 1" width="150px" src="./archivos/insisgniasisco.png" />](./archivos/C--_Essentials_1_certificate_160337.pdf)
+
+**C++ Essentials 1** - Construye tus habilidades de programación en C++ y prepárate para la certificación CPE – C++ Certified Entry-Level Programmer.
+
+<br />
+<br />
+
+---
+
 <img align="left" alt="Estadísticas de Github de canove" src="https://github-readme-stats.vercel.app/api?username=canove&show_icons=true&hide_border=true" />
 
-[website]: https://www.whaticket.com
+[website]: https://www.whasapo.com
 [facebook]: https://www.facebook.com/ca9kings
 [instagram]: https://www.instagram.com/canove9/
 [linkedin]: https://www.linkedin.com/in/cassio-santos-08076b180/
