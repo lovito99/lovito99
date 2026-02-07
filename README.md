@@ -57,7 +57,7 @@
 
 ---
 
-<img align="left" alt="Estadísticas de Github de canove" src="https://github-readme-stats.vercel.app/api?username=canove&show_icons=true&hide_border=true" />
+<img align="left" alt="Estadísticas de Github de Efrain Vitorino" src="https://github-readme-stats.vercel.app/api?username=lovito99&show_icons=true&hide_border=true" />
 
 [website]: https://www.whasapo.com
 [facebook]: https://www.facebook.com/vitorinoef
