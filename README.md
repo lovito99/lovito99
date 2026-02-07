@@ -2,9 +2,10 @@
 
 ## Soy un entusiasta de la tecnología, SysAdmin y Desarrollador.
 
-- 🔭 Soy CTO en [Whasapo][website]
-- 🌱 Soy Ingeniero de Software, especializado en Javascript.
-- 😍 Amo el Open Source, este es mi primer proyecto de código abierto >> [WhaTicket][whaticket]!
+- 🔭 Actualmente trabajando en agencias de viajes en Cusco en proyectos de desarrollo web y aplicaciones móviles con integraciones de pasarelas de pago Webmaster
+- 🎓 Estudiando en la UNSAAC
+- 🌱 Soy Estudiante de Ing. Informatica y de Sistemas,.
+- 😍 Amo el Open Source, este es mi primer proyecto de código abierto >> [Whasapo][whasapo]!
 
 ### Conecta conmigo:
 
@@ -58,8 +59,8 @@
 <img align="left" alt="Estadísticas de Github de canove" src="https://github-readme-stats.vercel.app/api?username=canove&show_icons=true&hide_border=true" />
 
 [website]: https://www.whasapo.com
-[facebook]: https://www.facebook.com/ca9kings
-[instagram]: https://www.instagram.com/canove9/
-[linkedin]: https://www.linkedin.com/in/cassio-santos-08076b180/
-[whaticket]: https://github.com/canove/whaticket
+[facebook]: https://www.facebook.com/vitorinoef
+[instagram]: https://www.instagram.com/vitorinoef
+[linkedin]: https://www.linkedin.com/in/vitorinoef
+[whasapo]: https://github.com/whasapo
 
