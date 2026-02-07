@@ -37,7 +37,9 @@
 
 ### Certificaciones:
 
-[<img align="left" alt="C++ Essentials 1" width="150px" src="./archivos/insisgniasisco.png" />](./archivos/C--_Essentials_1_certificate_160337.pdf)
+[<img align="left" alt="C++ Essentials 1" width="150px" src="./archivos/insisgniasisco.png" />](https://www.credly.com/badges/3ca0e580-b8b8-4e2a-b7b2-e57060fefa5c)
+
+[<img align="left" alt="C++ Essentials 1 Certificado" width="150px" src="./archivos/certifica.png" />](./archivos/C--_Essentials_1_certificate_160337.pdf)
 
 **C++ Essentials 1** - Construye tus habilidades de programación en C++ y prepárate para la certificación CPE – C++ Certified Entry-Level Programmer.
 
