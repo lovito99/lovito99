@@ -56,7 +56,7 @@
 <br />
 <br />
 
-[<img align="left" alt="C++ Essentials 2 Certificado" width="150px" src="./archivos/insignia2.png" />](./archivos/certificado2.pdf)
+[<img align="left" alt="C++ Essentials 2 Certificado" width="150px" src="./archivos/certifica.png" />](./archivos/certificado2.pdf)
 
 **C++ Essentials 2** - Take your C++ skills to the next level and prepare for CPA – C++ Certified Associate Programmer certification.
 
