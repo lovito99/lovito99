@@ -41,6 +41,7 @@
 
 [<img align="left" alt="C++ Essentials 1" width="100px" src="./archivos/insisgniasisco.png" />](https://www.credly.com/badges/3ca0e580-b8b8-4e2a-b7b2-e57060fefa5c)
 [<img align="left" alt="C++ Essentials 2" width="100px" src="./archivos/insignia2.png" />](https://www.credly.com/badges/2e903bc0-40b7-4ce1-a948-81ac0c40eaa2)
+[<img align="left" alt="C++ Advanced" width="100px" src="./archivos/insignia3.png" />](https://www.credly.com/badges/93c686dc-dbfc-409d-8a97-a407dd1551e9)
 
 <br />
 <br />
@@ -59,6 +60,13 @@
 [<img align="left" alt="C++ Essentials 2 Certificado" width="150px" src="./archivos/certifica.png" />](./archivos/certificado2.pdf)
 
 **C++ Essentials 2** - Take your C++ skills to the next level and prepare for CPA – C++ Certified Associate Programmer certification.
+
+<br />
+<br />
+
+[<img align="left" alt="C++ Advanced Certificado" width="150px" src="./archivos/certifica.png" />](./archivos/certificado3.pdf)
+
+**C++ Advanced** - Lleva tus habilidades de C++ al nivel avanzado y prepárate para la certificación CPA – C++ Certified Associate Programmer.
 
 <br />
 <br />
