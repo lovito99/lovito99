@@ -5,8 +5,98 @@
 - 🔭 Actualmente trabajando en agencias de viajes en Cusco en proyectos de desarrollo web y aplicaciones móviles con integraciones de pasarelas de pago Webmaster
 - 🎓 Estudiando en la UNSAAC
 - 🌱 Soy Estudiante de Ing. Informatica y de Sistemas,.
-- � Mi primer proyecto CRM: [Whasapo][whasapo] - Desarrollado con JavaScript y TypeScript
+- 💼 Mi primer proyecto CRM: [Whasapo][whasapo] - Desarrollado con JavaScript y TypeScript
 - 😍 Amo el Open Source, este es mi primer proyecto de código abierto >> [Whasapo Dev][whasapodev]!
+
+## Efrain Vitorino Marín
+
+**Desarrollador web, especialista en CRM y estudiante de Ingeniería Informática y de Sistemas**
+
+📍 Residencia: Cusco, Perú · 📧 [lovito99_m@live.com](mailto:lovito99_m@live.com) · 📱 +51 925465788
+
+### Perfil profesional
+
+Estudiante de Ingeniería Informática y de Sistemas con experiencia en desarrollo web, CRM, comercio electrónico, integración de WhatsApp API, automatización y administración de servidores VPS. Orientado al desarrollo de soluciones digitales para empresas comerciales, turísticas e institucionales.
+
+### Competencias
+
+- Desarrollo web y comercio electrónico
+- Desarrollo e implementación de CRM
+- Integración de WhatsApp API, webhooks y APIs
+- Automatización de procesos con n8n y Typebot
+- Administración y migración de servidores VPS
+- SEO técnico, seguridad web y soporte técnico
+
+### Tecnologías
+
+`PHP` · `JavaScript` · `Python` · `C++` · `Java` · `Node.js` · `Laravel` · `WordPress` · `WooCommerce` · `HTML5` · `CSS3` · `MySQL` · `PostgreSQL` · `Linux` · `Git` · `n8n` · `Typebot` · `Chatwoot` · `EvoAPI`
+
+### Experiencia profesional
+
+**Webmaster y consultor externo · X-Travel Peru**<br>
+2025 - Actualidad · Cusco
+
+- Administración del portal, reservas y optimización SEO.
+- Migración del sitio y servicios a un servidor VPS.
+- [xtravelperu.com](https://xtravelperu.com)
+
+**Webmaster y desarrollador CRM · Aventura Digital**<br>
+2020 - 2024 · Cusco
+
+- Desarrollo de CRM con WhatsApp API, Node.js, n8n y Typebot.
+- Automatización de atención, webhooks e integración de APIs.
+- Administración y migración de sitios web a servidores VPS.
+- [whasapo.com](https://whasapo.com) · [aventuradigital.com](https://aventuradigital.com)
+
+**Webmaster · Minka Peru Travel**<br>
+2022 · Cusco
+
+- Administración, actualización y mantenimiento del sitio web.
+- Gestión de contenidos, formularios y servicios turísticos.
+- Soporte técnico.
+
+**Diseñador y desarrollador web · Katkon S.A.C.**<br>
+2019 - 2022 · Apurímac
+
+- Desarrollo de sitios web y comercio electrónico.
+- Configuración de hosting, dominio, SSL y respaldos.
+- [katkon.com.pe](https://katkon.com.pe)
+
+**Desarrollo web · Municipalidad Distrital de Pisac**<br>
+2016 - 2018 · Cusco
+
+- Soporte técnico, mantenimiento y configuración de redes.
+- Desarrollo web, bases de datos y seguridad informática.
+- [municipalidadpisac.gob.pe](https://municipalidadpisac.gob.pe)
+
+### Educación
+
+**Ingeniería Informática y de Sistemas · UNSAAC**<br>
+2019 - Actualidad · Cusco
+
+Formación en desarrollo de software, bases de datos, redes, sistemas de información e ingeniería de software.
+
+### Proyecto destacado
+
+**Whasapo CRM**
+
+Sistema de gestión de clientes y conversaciones integrado con WhatsApp, webhooks y flujos automatizados mediante Node.js, n8n y Typebot.
+
+### Reconocimientos
+
+- **Yachayninchis 2023:** Segundo puesto en CORCITEC con el proyecto *Inteligencia Rural Conectada*.
+- **VII Semana de Ciencia y Tecnología:** Participación como expositor.
+
+### Idiomas
+
+- Español: Nativo
+- Quechua: Nativo
+- Inglés: A2
+- Portugués: A2
+
+### Referencias
+
+Disponibles a solicitud.
 
 ### Conecta conmigo:
 
