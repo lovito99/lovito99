@@ -1,162 +1,187 @@
-### Hola, soy Efrain Vitorino - Lovito99
+<h1 align="center">Hola, soy Efrain Vitorino Marín</h1>
 
-## Soy un entusiasta de la tecnología, SysAdmin y Desarrollador.
+<p align="center">
+  <strong>Desarrollador Full Stack · SysAdmin · Especialista en CRM, automatización y plataformas digitales</strong>
+</p>
 
-- Actualmente trabajo con agencias de viajes en Cusco en proyectos de desarrollo web y aplicaciones móviles con integraciones de pasarelas de pago.
-- Estudio Ingeniería Informática y de Sistemas en la UNSAAC.
-- Mi primer proyecto CRM es [Whasapo][whasapo], desarrollado con JavaScript y TypeScript.
-- Creo en el software de código abierto y desarrollo [Whasapo Dev][whasapodev].
+<p align="center">
+  <a href="mailto:lovito99_m@live.com">
+    <img src="https://img.shields.io/badge/Email-lovito99__m%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitorinoef">
+    <img src="https://img.shields.io/badge/LinkedIn-vitorinoef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/lovito99">
+    <img src="https://img.shields.io/badge/GitHub-lovito99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## Efrain Vitorino Marín
+---
 
-**Desarrollador web, especialista en CRM y estudiante de Ingeniería Informática y de Sistemas**
+## Perfil profesional
 
-**Residencia:** Cusco, Perú · **Correo:** [lovito99_m@live.com](mailto:lovito99_m@live.com) · **Teléfono:** +51 925465788
+Soy estudiante de Ingeniería Informática y de Sistemas en la UNSAAC, con experiencia práctica en desarrollo web, CRM, comercio electrónico, automatización, integración de APIs, administración de servidores VPS y despliegue de soluciones digitales para empresas turísticas, comerciales e institucionales.
 
-### Perfil profesional
+Trabajo principalmente con proyectos reales orientados a reservas, atención al cliente, ventas, operaciones, pagos en línea, WhatsApp API, paneles administrativos y optimización de procesos internos.
 
-Estudiante de Ingeniería Informática y de Sistemas con experiencia en desarrollo web, CRM, comercio electrónico, integración de WhatsApp API, automatización y administración de servidores VPS. Orientado al desarrollo de soluciones digitales para empresas comerciales, turísticas e institucionales.
+## Áreas de especialización
 
-### Competencias
+- Desarrollo Full Stack con PHP, JavaScript, TypeScript, Node.js, React, Vue.js y Laravel.
+- Diseño e implementación de CRM, sistemas de reservas, paneles administrativos y flujos operativos.
+- Integración de APIs, webhooks, WhatsApp API, pasarelas de pago y automatizaciones.
+- Administración de servidores VPS, hosting, dominios, SSL, backups, seguridad y migraciones.
+- Bases de datos relacionales y NoSQL: MySQL, PostgreSQL, MongoDB y Redis.
+- Cloud, despliegue y servicios: Google Cloud, AWS, Hostinger, VPS Linux, Nginx y Apache.
+- Streaming, contenido digital, SEO técnico, analítica y optimización web.
+- Exploración aplicada de Machine Learning, Deep Learning, modelos de aprendizaje automático y herramientas de IA.
 
-- Desarrollo web y comercio electrónico
-- Desarrollo e implementación de CRM
-- Integración de WhatsApp API, webhooks y APIs
-- Automatización de procesos con n8n y Typebot
-- Administración y migración de servidores VPS
-- SEO técnico, seguridad web y soporte técnico
+## Stack técnico
 
-### Tecnologías
+### Lenguajes y frontend
 
-`PHP` · `JavaScript` · `Python` · `C++` · `Java` · `Node.js` · `Laravel` · `WordPress` · `WooCommerce` · `HTML5` · `CSS3` · `MySQL` · `PostgreSQL` · `Linux` · `Git` · `n8n` · `Typebot` · `Chatwoot` · `EvoAPI`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
-### Experiencia profesional
+### Backend, CMS y automatización
 
-**Webmaster y consultor externo · X-Travel Peru**<br>
-2025 - Actualidad · Cusco
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=flat-square&logo=chatwoot&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
-- Administración del portal, reservas y optimización SEO.
-- Migración del sitio y servicios a un servidor VPS.
-- [xtravelperu.com](https://xtravelperu.com)
+### Bases de datos, servidores y cloud
 
-**Webmaster y desarrollador CRM · Aventura Digital**<br>
-2020 - 2024 · Cusco
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
-- Desarrollo de CRM con WhatsApp API, Node.js, n8n y Typebot.
-- Automatización de atención, webhooks e integración de APIs.
+### IA, datos y herramientas
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## Experiencia profesional
+
+### X-Travel Peru
+
+**Webmaster y consultor externo · 2025 - Actualidad · Cusco**
+
+- Administración del portal, sistema de reservas, contenidos y optimización SEO.
+- Migración del sitio y servicios a servidor VPS.
+- Desarrollo de mejoras para operación turística, formularios, pagos y gestión comercial.
+- Sitio: [xtravelperu.com](https://xtravelperu.com)
+
+### Aventura Digital
+
+**Webmaster y desarrollador CRM · 2020 - 2024 · Cusco**
+
+- Desarrollo de CRM con WhatsApp API, Node.js, n8n, Typebot y webhooks.
+- Automatización de atención, ventas, seguimiento de clientes e integración de APIs.
 - Administración y migración de sitios web a servidores VPS.
-- [whasapo.com](https://whasapo.com) · [aventuradigital.com](https://aventuradigital.com)
+- Sitios: [whasapo.com](https://whasapo.com) · [aventuradigital.com](https://aventuradigital.com)
 
-**Webmaster · Minka Peru Travel**<br>
-2022 · Cusco
+### Minka Peru Travel
+
+**Webmaster · 2022 · Cusco**
 
 - Administración, actualización y mantenimiento del sitio web.
-- Gestión de contenidos, formularios y servicios turísticos.
-- Soporte técnico.
+- Gestión de contenidos, formularios, servicios turísticos y soporte técnico.
 
-**Diseñador y desarrollador web · Katkon S.A.C.**<br>
-2019 - 2022 · Apurímac
+### Katkon S.A.C.
 
-- Desarrollo de sitios web y comercio electrónico.
-- Configuración de hosting, dominio, SSL y respaldos.
-- [katkon.com.pe](https://katkon.com.pe)
+**Diseñador y desarrollador web · 2019 - 2022 · Apurímac**
 
-**Desarrollo web · Municipalidad Distrital de Pisac**<br>
-2016 - 2018 · Cusco
+- Desarrollo de sitios web, comercio electrónico y soluciones digitales.
+- Configuración de hosting, dominio, SSL, correos corporativos y respaldos.
+- Sitio: [katkon.com.pe](https://katkon.com.pe)
 
-- Soporte técnico, mantenimiento y configuración de redes.
-- Desarrollo web, bases de datos y seguridad informática.
-- [municipalidadpisac.gob.pe](https://municipalidadpisac.gob.pe)
+### Municipalidad Distrital de Pisac
 
-### Educación
+**Desarrollo web y soporte técnico · 2016 - 2018 · Cusco**
+
+- Soporte técnico, mantenimiento de equipos y configuración de redes.
+- Desarrollo web, gestión de bases de datos y seguridad informática.
+- Sitio: [municipalidadpisac.gob.pe](https://municipalidadpisac.gob.pe)
+
+## Proyecto destacado
+
+### Whasapo CRM
+
+Sistema de gestión de clientes y conversaciones integrado con WhatsApp API, webhooks y flujos automatizados mediante Node.js, n8n y Typebot.
+
+- Gestión de contactos, conversaciones y seguimiento comercial.
+- Automatización de respuestas, flujos y notificaciones.
+- Integración con servicios externos mediante APIs y webhooks.
+- Proyecto: [Whasapo Dev](https://github.com/lovito99/whasapodev)
+
+## Formación
 
 **Ingeniería Informática y de Sistemas · UNSAAC**<br>
-2019 - Actualidad · Cusco
+2019 - Actualidad · Cusco, Perú
 
-Formación en desarrollo de software, bases de datos, redes, sistemas de información e ingeniería de software.
+Formación en desarrollo de software, bases de datos, redes, sistemas de información, arquitectura de sistemas e ingeniería de software.
 
-### Proyecto destacado
+## Reconocimientos y certificaciones
 
-**Whasapo CRM**
+- **Yachayninchis 2023:** segundo puesto en CORCITEC con el proyecto *Inteligencia Rural Conectada*.
+- **VII Semana de Ciencia y Tecnología:** participación como expositor.
+- **Cisco C++ Essentials 1, C++ Essentials 2 y C++ Advanced.**
 
-Sistema de gestión de clientes y conversaciones integrado con WhatsApp, webhooks y flujos automatizados mediante Node.js, n8n y Typebot.
+<p>
+  <a href="https://www.credly.com/badges/3ca0e580-b8b8-4e2a-b7b2-e57060fefa5c">
+    <img alt="C++ Essentials 1" width="90" src="./archivos/insisgniasisco.png" />
+  </a>
+  <a href="https://www.credly.com/badges/2e903bc0-40b7-4ce1-a948-81ac0c40eaa2">
+    <img alt="C++ Essentials 2" width="90" src="./archivos/insignia2.png" />
+  </a>
+  <a href="https://www.credly.com/badges/93c686dc-dbfc-409d-8a97-a407dd1551e9">
+    <img alt="C++ Advanced" width="90" src="./archivos/insignia3.png" />
+  </a>
+</p>
 
-### Reconocimientos
+Certificados:
 
-- **Yachayninchis 2023:** Segundo puesto en CORCITEC con el proyecto *Inteligencia Rural Conectada*.
-- **VII Semana de Ciencia y Tecnología:** Participación como expositor.
+- [C++ Essentials 1](./archivos/C--_Essentials_1_certificate_160337.pdf)
+- [C++ Essentials 2](./archivos/certificado2.pdf)
+- [C++ Advanced](./archivos/certificado3.pdf)
 
-### Idiomas
+## Idiomas
 
-- Español: Nativo
-- Quechua: Nativo
+- Español: nativo
+- Quechua: nativo
 - Inglés: A2
 - Portugués: A2
 
-### Referencias
+## Contacto
 
-Disponibles a solicitud.
-
-### Conecta conmigo
-
-[<img align="left" alt="perfil-redes-sociales | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="perfil-redes-sociales | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="perfil-redes-sociales | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Habilidades técnicas
-
-<img src="https://skillicons.dev/icons?i=php,js,python,cpp,java,nodejs,laravel,wordpress,woocommerce,html,css,react,mysql,mongodb,postgres,linux,git,github,vscode" alt="PHP, JavaScript, Python, C++, Java, Node.js, Laravel, WordPress, WooCommerce, HTML5, CSS3, React, MySQL, MongoDB, PostgreSQL, Linux, Git, GitHub y Visual Studio Code" />
-
-`n8n` · `Typebot` · `Chatwoot` · `EvoAPI` · `WhatsApp API` · `SEO técnico` · `Seguridad web` · `Administración VPS`
-
----
-
-### Insignias:
-
-[<img align="left" alt="C++ Essentials 1" width="100px" src="./archivos/insisgniasisco.png" />](https://www.credly.com/badges/3ca0e580-b8b8-4e2a-b7b2-e57060fefa5c)
-[<img align="left" alt="C++ Essentials 2" width="100px" src="./archivos/insignia2.png" />](https://www.credly.com/badges/2e903bc0-40b7-4ce1-a948-81ac0c40eaa2)
-[<img align="left" alt="C++ Advanced" width="100px" src="./archivos/insignia3.png" />](https://www.credly.com/badges/93c686dc-dbfc-409d-8a97-a407dd1551e9)
-
-<br />
-<br />
-
----
-
-### Certificaciones:
-
-[<img align="left" alt="C++ Essentials 1 Certificado" width="150px" src="./archivos/certifica.png" />](./archivos/C--_Essentials_1_certificate_160337.pdf)
-
-**C++ Essentials 1** - Construye tus habilidades de programación en C++ y prepárate para la certificación CPE – C++ Certified Entry-Level Programmer.
-
-<br />
-<br />
-
-[<img align="left" alt="C++ Essentials 2 Certificado" width="150px" src="./archivos/certifica.png" />](./archivos/certificado2.pdf)
-
-**C++ Essentials 2** - Take your C++ skills to the next level and prepare for CPA – C++ Certified Associate Programmer certification.
-
-<br />
-<br />
-
-[<img align="left" alt="C++ Advanced Certificado" width="150px" src="./archivos/certifica.png" />](./archivos/certificado3.pdf)
-
-**C++ Advanced** - Lleva tus habilidades de C++ al nivel avanzado y prepárate para la certificación CPA – C++ Certified Associate Programmer.
-
-<br />
-<br />
-
----
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lovito99&show_icons=true&hide_border=true&locale=es)](https://github.com/lovito99)
-
-[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=lovito99&layout=compact&hide_border=true&locale=es)](https://github.com/lovito99)
-
-[website]: https://www.whasapo.com
-[facebook]: https://www.facebook.com/vitorinoef
-[instagram]: https://www.instagram.com/vitorinoef
-[linkedin]: https://www.linkedin.com/in/vitorinoef
-[whasapo]: https://github.com/whasapo
-[whasapodev]: https://github.com/lovito99/whasapodev
-
+- Cusco, Perú
+- Email: [lovito99_m@live.com](mailto:lovito99_m@live.com)
+- Teléfono: +51 925465788
+- Sitio web: [whasapo.com](https://www.whasapo.com)
+- LinkedIn: [vitorinoef](https://www.linkedin.com/in/vitorinoef)
+- Instagram: [vitorinoef](https://www.instagram.com/vitorinoef)
+- Facebook: [vitorinoef](https://www.facebook.com/vitorinoef)
