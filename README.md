@@ -1,18 +1,17 @@
-### Hola, Efrain Vitorino - Lovito99👋
+### Hola, soy Efrain Vitorino - Lovito99
 
 ## Soy un entusiasta de la tecnología, SysAdmin y Desarrollador.
 
-- 🔭 Actualmente trabajando en agencias de viajes en Cusco en proyectos de desarrollo web y aplicaciones móviles con integraciones de pasarelas de pago Webmaster
-- 🎓 Estudiando en la UNSAAC
-- 🌱 Soy Estudiante de Ing. Informatica y de Sistemas,.
-- 💼 Mi primer proyecto CRM: [Whasapo][whasapo] - Desarrollado con JavaScript y TypeScript
-- 😍 Amo el Open Source, este es mi primer proyecto de código abierto >> [Whasapo Dev][whasapodev]!
+- Actualmente trabajo con agencias de viajes en Cusco en proyectos de desarrollo web y aplicaciones móviles con integraciones de pasarelas de pago.
+- Estudio Ingeniería Informática y de Sistemas en la UNSAAC.
+- Mi primer proyecto CRM es [Whasapo][whasapo], desarrollado con JavaScript y TypeScript.
+- Creo en el software de código abierto y desarrollo [Whasapo Dev][whasapodev].
 
 ## Efrain Vitorino Marín
 
 **Desarrollador web, especialista en CRM y estudiante de Ingeniería Informática y de Sistemas**
 
-📍 Residencia: Cusco, Perú · 📧 [lovito99_m@live.com](mailto:lovito99_m@live.com) · 📱 +51 925465788
+**Residencia:** Cusco, Perú · **Correo:** [lovito99_m@live.com](mailto:lovito99_m@live.com) · **Teléfono:** +51 925465788
 
 ### Perfil profesional
 
@@ -98,7 +97,7 @@ Sistema de gestión de clientes y conversaciones integrado con WhatsApp, webhook
 
 Disponibles a solicitud.
 
-### Conecta conmigo:
+### Conecta conmigo
 
 [<img align="left" alt="perfil-redes-sociales | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="perfil-redes-sociales | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -106,24 +105,11 @@ Disponibles a solicitud.
 
 <br />
 
-### Lenguajes y Herramientas:
+### Habilidades técnicas
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img src="https://skillicons.dev/icons?i=php,js,python,cpp,java,nodejs,laravel,wordpress,woocommerce,html,css,react,mysql,mongodb,postgres,linux,git,github,vscode" alt="PHP, JavaScript, Python, C++, Java, Node.js, Laravel, WordPress, WooCommerce, HTML5, CSS3, React, MySQL, MongoDB, PostgreSQL, Linux, Git, GitHub y Visual Studio Code" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+`n8n` · `Typebot` · `Chatwoot` · `EvoAPI` · `WhatsApp API` · `SEO técnico` · `Seguridad web` · `Administración VPS`
 
 ---
 
@@ -163,9 +149,9 @@ Disponibles a solicitud.
 
 ---
 
-[![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=lovito99&theme=dark&show_icons=true)](https://github.com/lovito99)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lovito99&show_icons=true&hide_border=true&locale=es)](https://github.com/lovito99)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovito99&theme=dark&layout=compact)](https://github.com/lovito99)
+[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=lovito99&layout=compact&hide_border=true&locale=es)](https://github.com/lovito99)
 
 [website]: https://www.whasapo.com
 [facebook]: https://www.facebook.com/vitorinoef
